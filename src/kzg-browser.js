@@ -1,6 +1,3 @@
-import D from "path";
-import fs from "fs";
-
 var kzg = (() => {
     var _scriptDir = import.meta.url;
 
