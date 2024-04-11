@@ -19,7 +19,7 @@
   "type": "module",
   "exports": {
     ".": {
-      "import": "./dist/esm/index.js",
+      "import": "./dist/esm/index-browser.js",
       "require": "./dist/cjs/index.js"
     }
   },
